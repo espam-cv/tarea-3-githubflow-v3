@@ -49,7 +49,7 @@ export default function Home() {
             <button onClick={() => handleButtonClick(".")}>.</button>
             <button onClick={handleCalculate}>=</button>
             <button onClick={handleClear} className={styles.clear}>
-              C
+              c
             </button>
           </div>
         </div>
